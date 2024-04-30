@@ -1,0 +1,17 @@
+.itemImg {
+  padding: 10px 20px;
+  width: 130px;
+}
+.itemName {
+  font-weight: 700;
+  font-size: 24px;
+}
+.status{
+    font-size: 20px;
+ }
+ .online{
+    color:#008000
+ }
+ .offline{
+    color: #ff0000;
+ }
